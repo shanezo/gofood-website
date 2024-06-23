@@ -2,7 +2,7 @@ Welcome to the Go-Food App project! This README provides an overview of the proj
 
 Overview Go-Food is a modern web application designed to help users find and order food from various restaurants. The app features a user-friendly interface, comprehensive restaurant listings, and an intuitive ordering process.
 
-Features Restaurant Listings: Browse a wide range of restaurants with detailed menus. Search and Filter: Easily find your favorite food by searching and applying filters. Order Management: Manage your orders with ease. User Authentication: Secure login and registration process. Responsive Design: Access the app seamlessly on both desktop and mobile devices. Live Demo You can view the live demo of the Go-Food App deployed on Vercel using the following link:
+Features Restaurant Listings: Browse a wide range of restaurants with detailed menus. Search and Filter: Easily find your favorite food by searching and applying filters. Order Management: Manage your orders with ease. User Authentication: Secure login and registration process. Responsive Design: Access the app seamlessly on both desktop and mobile devices. Live Demo You can view the live demo of the Go-Food App deployed on Vercel using the following link: https://gofood-website.vercel.app/
 
 
 Getting Started Prerequisites Ensure you have the following installed on your local machine:
